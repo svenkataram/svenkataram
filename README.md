@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svenkataram
-- 👀 I’m interested in mobile, ML, crypto
+- 👀 I’m interested in mobile, ML, digital health applications
 - 🌱 I’m currently learning backend + frontend applications, intro ML, defi, crypto
 - 📫 How to reach me: www.twitter.com/svenkataram 
 
